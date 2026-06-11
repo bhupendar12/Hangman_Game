@@ -1,0 +1,5 @@
+# requirements for Hangman Game  
+
+# No external libraries required.
+
+# Only standard Python modules are used.
